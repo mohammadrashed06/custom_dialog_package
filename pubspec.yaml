@@ -1,7 +1,9 @@
 name: custom_alert_dialog_package
-description: A new Flutter project.
+description: custom dialog package flutter.
 version: 0.0.1
-homepage:
+authors:
+  -Mohammad Rashed<mohammedrashed06@gmail.com>
+homepage: https://github.com/mohammadrashed06/custom_dialog_package
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
