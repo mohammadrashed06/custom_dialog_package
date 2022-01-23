@@ -1,8 +1,6 @@
 name: custom_alert_dialog_package
 description: custom dialog package flutter.
 version: 0.0.1
-authors:
-  -Mohammad Rashed<mohammedrashed06@gmail.com>
 homepage: https://github.com/mohammadrashed06/custom_dialog_package
 
 environment:
