@@ -2,15 +2,8 @@ library custom_alert_dialog_package;
 
 import 'package:flutter/material.dart';
 
-// /// A Calculator.
-// class Calculator {
-//   /// Returns [value] plus 1.
-//   int addOne(int value) => value + 1;
-//   ///
-// }
-
 class CustomAlertBox {
-  /// Bu şekilde döküman yorumları oluşturabilirsiniz kullanan kişiler için faydalı olur.
+  /// By Mohammad Rashed.
   static Future showCustomAlertBox({
     @required BuildContext? context,
     @required Widget? willDisplayWidget,
